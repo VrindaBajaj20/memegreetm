@@ -1,0 +1,47 @@
+*{
+    background-color: black;
+    color: aliceblue;
+
+   
+}
+.heading{
+    
+    margin: auto;
+    
+    text-align: center;
+    border: 1px white ;
+    border-radius: 20px;
+    border-style: dashed;
+    width: 50%;
+    left: 25%;
+    
+ 
+    
+
+}
+.upperimages{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.firstimage{
+    inline-size: 30%;
+    align-items: center;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid white;
+    
+    border-radius: 10px;
+    text-align: center;
+}
+.secondimage{
+    align-items: center;
+    inline-size:30%;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid white;
+    
+    border-radius: 10px;
+    
+}
